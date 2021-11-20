@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation sample02</string>
+
+    <string name="label_first_screen">FIRST</string>
+    <string name="label_second_screen">SECOND</string>
+    <string name="label_third_screen">THIRD</string>
+
+    <string name="button_next">NEXT</string>
+    <string name="button_go_back">GO BACK</string>
+</resources>
